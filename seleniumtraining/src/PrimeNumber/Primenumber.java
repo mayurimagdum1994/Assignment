@@ -19,7 +19,7 @@ class Primenumber
 
     public static void main (String[] args)
     {
-        int N = 100;
+        int N = 71;
       
         for(int i=1; i<=N; i++){
            
